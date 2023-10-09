@@ -1,0 +1,23 @@
+.main {
+  width: 100%;
+}
+
+.main__wrapper {
+  width: 32vw;
+  text-align: left;
+  padding: 2rem;
+  color: aliceblue;
+}
+
+.main__title {
+  font-size: 3rem;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+button {
+  margin-top: 5vh;
+  border: none;
+  padding: 2rem;
+  align-self: flex-start;
+}
